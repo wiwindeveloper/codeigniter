@@ -22,3 +22,6 @@ Move the ci_crud.sql file to your server database, here I am using MySQL.
 
 # MVC
 Here i am using MVC programming. so you can find the program files in the model, controller and view folder in the application directory.
+
+# Run the program
+Open your browser then type http://localhost/ajax_crud/
